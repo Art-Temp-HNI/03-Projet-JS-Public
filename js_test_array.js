@@ -1,0 +1,10 @@
+var array_number = new Array(9);
+array_number[0] = "4 9 5 2 7 3 6 8 1"
+array_number[1] = "6 1 3 9 4 8 7 5 2"
+array_number[2] = "8 2 7 5 6 1 4 3 9"
+array_number[3] = "7 6 1 8 2 4 5 9 3"
+array_number[4] = "9 5 8 6 3 7 2 1 4"
+array_number[5] = "2 3 4 1 5 9 8 6 7"
+array_number[6] = "1 7 9 4 8 5 3 2 6"
+array_number[7] = "3 8 2 7 9 6 1 4 5"
+array_number[8] = "5 4 6 3 1 2 9 7 8"
